@@ -50,12 +50,13 @@ Optionally, this script can include additional stats such as:
 
 ## Usage
 
-1. Download the script:
+1. Download the script by cloning the repo:
+   - https://github.com/georgitinchev/server-performance-stats.git
 
-2. Make the script executable:
+3. Make the script executable:
    - chmod +x server-stats.sh
 
-3. Run the script
+4. Run the script
    - ./server-stats.sh
 
 ## Prerequisites
